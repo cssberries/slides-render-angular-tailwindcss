@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.houston.softwaregrp.net/yevgeniy-belov/blueberry-render.git"
+		"url": "https://github.com/cssberries/slides-render-angular-tailwindcss.git"
 	},
 	"nodemonConfig": {
 		"ignore": [
