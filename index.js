@@ -3,7 +3,7 @@ module.exports = {
     setOptions: function ( options ) {
         options['slidesTreePath'] = `${__dirname}/tree.json`;
         options['routesListPath'] = `${__dirname}/routeList.json`;
-        options['slidesListModulePathRender'] = 'node_modules/slides-render-cssberries/src/app/slides/slides-list.module.ts';
+        options['slidesListModulePathRender'] = 'node_modules/slides-render-angular-tailwindcss/src/app/slides/slides-list.module.ts';
         options['slidesListModulePathFinder'] = 'node_modules/slides-finder/src/app/slides/slides-list.module.ts';
         options['slidesListingComponentPath'] = `.`;
         options['slidesRenderComponentPath'] = `.`;

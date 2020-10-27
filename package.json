@@ -23,7 +23,7 @@
 		"lint": "ng lint",
 		"e2e": "ng e2e"
 	},
-	"private": true,
+	"private": false,
 	"dependencies": {
 		"@angular-builders/custom-webpack": "^10.0.1",
 		"@angular-devkit/build-angular": "^0.1000.7",
